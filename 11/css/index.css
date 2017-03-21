@@ -11,7 +11,3 @@ body {
     margin: 0;
     padding: 0;
 }
-p::first-line {
-    background-color: rgb(255,165,0)
-   
-}
