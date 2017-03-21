@@ -12,10 +12,13 @@ body {
     padding: 0;
 }
 
-span{
-    background-color: rgb(127,255,0);
+li:last-child{
+    ;
+list-style-image: url(../images/1490104355_Tick_Mark.png);
+    font-size: -2px
+    
 }
+li:first-child{
+    
 
-span:last-of-type{
-    background-color: rgb(255,127,80);
 }

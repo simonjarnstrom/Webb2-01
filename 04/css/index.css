@@ -11,11 +11,12 @@ body {
     margin: 0;
     padding: 0;
 }
-
-span{
-    background-color: rgb(127,255,0);
+.ex1 {
+    text-transform: uppercase
+    
+    
 }
-
-span:last-of-type{
-    background-color: rgb(255,127,80);
+.ex2 {
+    font-size: 20px
+    
 }

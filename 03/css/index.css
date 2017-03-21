@@ -10,12 +10,11 @@ html {
 body {
     margin: 0;
     padding: 0;
-}
 
-span{
-    background-color: rgb(127,255,0);
 }
-
-span:last-of-type{
-    background-color: rgb(255,127,80);
+i {
+    color: rgb(104,169,255);
+}
+h1:i:first-of-type{
+    color: red
 }

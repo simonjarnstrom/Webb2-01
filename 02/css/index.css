@@ -16,6 +16,6 @@ span{
     background-color: rgb(127,255,0);
 }
 
-span:last-of-type{
+span:last-child {
     background-color: rgb(255,127,80);
 }
