@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    width: 50%
+}
+p{
+    border: dotted 2px black;
+    padding-top;
+        
+}
+
+img{
+    float: right;
+        
+}

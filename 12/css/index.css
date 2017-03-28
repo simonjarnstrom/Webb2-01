@@ -9,5 +9,29 @@ html {
 
 body {
     margin: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     padding: 0;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th {
+    background-color: rgb(46,204,113);
+    color: white;
+    
+    
+    
+}
+th, td {
+    text-align: left;
+    padding: 8px; }
+td{
+  background-color: rgb(200,247,197) ;
+    
+}
+tr{
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(46,204,113);
 }

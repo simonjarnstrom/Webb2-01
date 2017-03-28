@@ -15,6 +15,6 @@ body {
 i {
     color: rgb(104,169,255);
 }
-h1:i:first-of-type{
-    color: red
+h1 i {
+    color:rgb(221,34,66);
 }

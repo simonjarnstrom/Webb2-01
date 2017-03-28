@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+table{
+    background-color: #6C7A89;
+        width: 400px;
+        height: 400px;
+        border-collapse: collapse;
+    
+}
+tr:nth-child(odd) td:nth-child(even), tr:nth-child(even) td:nth-child(odd){
+background-color: #D2D7D3;
+
+
+
+
+
+
+

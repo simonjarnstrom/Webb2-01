@@ -11,3 +11,15 @@ body {
     margin: 0;
     padding: 0;
 }
+
+h1:first-letter{
+    color: rgb(255,69,0);
+    font-size: 2em;
+    font-family:arial
+        
+        
+}
+h1{
+    color: rgb(82,119,226)
+    
+}

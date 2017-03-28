@@ -12,13 +12,11 @@ body {
     padding: 0;
 }
 
-li:last-child{
-    ;
-list-style-image: url(../images/1490104355_Tick_Mark.png);
-    font-size: -2px
+li:nth-child(even){
+list-style-image: url(../images/1490106756_onebit_34.png);
     
 }
-li:first-child{
+li:nth-child(odd){
+    list-style-image: url(../images/1490106636_cross.png)
     
-
 }

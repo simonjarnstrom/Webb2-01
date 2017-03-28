@@ -11,3 +11,12 @@ body {
     margin: 0;
     padding: 0;
 }
+
+ol li{ 
+    list-style: upper-alpha;
+    color: rgb(119,144,133)
+}
+ul li {
+    list-style: square;
+    color: rgb(195,133,84)
+}

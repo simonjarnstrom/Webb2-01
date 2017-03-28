@@ -11,9 +11,7 @@ body {
     margin: 0;
     padding: 0;
 }
-p::first-line {
+span p::first-line {
     background-color: rgb(255,165,0)  
 }
-p::second-line{
-    color: aliceblue
-}
+
