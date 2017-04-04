@@ -8,6 +8,43 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 0px;
     padding: 0;
+    background-color: #F5DEB3
+}
+.paper{
+    background-color: white;
+  display: block;
+    height: 125px;
+    width: 500px;
+    position: relative;
+    top: calc(50vh - 250px);
+    margin: 0 auto;
+  text-align: center;
+      box-shadow: 0 4px 15px -2px black;
+}
+.boxwithshadow{
+   position: absolute;
+    padding-top: 50px;
+    padding-left: 20px;
+        
+    
+         
+}
+.tape1{
+    position: absolute;
+        top: 0px; right: -21px;
+        background-color: rgba(70, 65, 65, 0.2);
+    width: 60px;
+    height: 15px; 
+    transform: rotate(45deg)        
+}
+.tape2{
+    position: absolute;
+        top: -21px; left: 0px;
+        background-color: rgba(70, 65, 65, 0.2);
+    width: 15px;
+    height: 60px; 
+    transform: rotate(45deg)
+    
 }

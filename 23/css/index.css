@@ -15,10 +15,14 @@ body {
 .box{
     background-color: white;
     box-shadow: 0 4px 15px -2px black;
-    width:50%;
-    padding-top: 50px;
-    margin-left: 25%
-        
+    width:60%;
+    padding:20px;
+    margin-left: 20%;
+    text-align: center;
+    margin-top: 20%;
         
     
+}
+p{
+    font-size: 25px
 }
