@@ -15,14 +15,16 @@ div{
     background-color: #2ECC71;
     margin-left: auto;
     margin-right: auto;
-    border-bottom-right-radius: 30px;
-    border-top-left-radius: 30px;
+    border-radius:;
     width: 200px;
     height: 200px;
     line-height: 200px;
     margin-top: 3px;
     text-align: center;
+    border-bottom-left-radius:30px 100px;
+        border-bottom-right-radius:30px 100px ;
+    border-top-left-radius:30px 100px ;
+    border-top-right-radius:30px 100px;
     
-        
+    
 }
-

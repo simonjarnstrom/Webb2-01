@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.blue{
+    background-color: #22A7F0;
+        width: 20%;
+    height:100vh;
+    
+    
+}
+.red{
+    background-color: #C0392B;
+    width: 20%;
+    height: 100vh;
+        
+}
+.green{
+    background-color:#87D37C;
+    width: 20%;
+    height:100vh;
+}
+.yellow{
+    background-color: #F4D03F;
+    width: 20%;
+    height: 100vh; 
+}
+.gray{
+    background-color: #ABB7B7;
+    width: 20%;
+    height: 100vh;
+
+        
+}
+div{
+    float: left;
+        
+    
+}

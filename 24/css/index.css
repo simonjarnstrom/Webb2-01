@@ -11,14 +11,3 @@ body {
     margin: 0;
     padding: 0;
 }
-.ex1{
-    letter-spacing: -3px;
-    word-spacing: 3px
-    
-    
-}
-.ex2{
-    letter-spacing: 3px;
-    word-spacing: -2px;
-    
-}

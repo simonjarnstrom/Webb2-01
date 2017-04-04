@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+blockquote{
+    float: right;
+    width:25%;
+    padding-bottom:-40px;
+    background-color: #E4F1FE;
+    border: double #58697A 6px;
+    
+    
+}
+blockquote p:last-of-type{
+    float: right;
+    color: #686479;
+    font-style:italic; 
+    
+}
+blockquote p:last-of-type:before{
+    content: '-';
+    
+}
+blockquote p:first-of-type:before{
+content: open-quote;
+}
+blockquote p:nth-last-of-type(2):after{
+content: '"';
+}
